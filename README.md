@@ -1,4 +1,4 @@
-[![MasterHead](https://maruf001-mt.github.io/Premium-Delivery/web.gif)]
+![MasterHead](https://maruf001-mt.github.io/Premium-Delivery/web.gif)
 
 <h1 align="center">Hi 👋, I'm Akshay Kumar Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
