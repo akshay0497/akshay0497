@@ -1,7 +1,12 @@
 ![MasterHead](https://maruf001-mt.github.io/Premium-Delivery/web.gif)
 
-<h1 align="center">Hi 👋, I'm Akshay Kumar Gupta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Akshay Kumar Gupta</h1>
+<h3 align="justify">With one year immersed in ReactJS, I've refined my skills in constructing dynamic user interfaces and adeptly managing state. Furthermore, I excel in maximizing performance and scalability through ReactJS. I specialize in crafting responsive designs using tools such as Bootstrap, Semantic UI and Material UI. Additionally, I possess a solid command of web technologies like HTML5 and CSS3, ensuring seamless compatibility across browsers.</h3>
+
+<h3 align="justify">🔹Languages : Typescript, JavaScript</h3>
+<h3 align="justify">🔹Library : ReactJS</h3>
+<h3 align="justify">🔹Web technology : HTML5, CSS3,</h3>
+<h3 align="justify">🔹Bootstrap4, Material UI, AntD,ChakraUI</h3>
 
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OIUet1dRnEI3NPUYZXhOqmhh7d4_jM2J5Q&s">
 
