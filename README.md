@@ -22,8 +22,36 @@
 
 - ⚡ Fun fact **I am Funny, passionate towards goals.....**
 
-<!-- Tech Stack Card -->
-<details open>
+  ### 🎯 Professional Summary
+- 🚀 Software Developer at MULTIFACET SOFTWARES SYSTEMS
+- 💡 Specialized in Full Stack Development
+- 🌟 1+ years of hands-on development experience
+
+### 🎓 Education
+- **Master of Business Administration (MBA) (Finance & Marketing)**
+  - Dr. A.P.J Abdul Kalam Technical University, Lucknow
+  - 2019 - 2021
+- **Bachelor of Electrical Engineering**
+  - Government College of Engineering, Aurangabad (GECA)
+  - Dr. Babasaheb Ambedkar Marathwada University, University in Aurangabad, Maharashtra
+  - 2015 -2019
+
+### 💼 Work Experience
+- **Software Developer at Multifacet Softwares System Pvt. Ltd.**
+  - Full Stack Development using MERN Stack
+  - Database Design and Management
+  - API Development and Integration
+  - UI/UX Implementation
+
+### 🌟 Key Skills
+- 💻 Frontend: React.js, JavaScript, HTML5, CSS3
+- ⚙️ Backend: Node.js, Express.js
+- 🗄️ Databases: MongoDB, MySQL
+- 🛠️ Tools: Git, VS Code, Postman
+
+### 🎯 Current Focus
+- 📚 Learning GoLang
+
 <summary><h2>🛠️ Tech Arsenal</h2></summary>
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -31,7 +59,6 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
-</details>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
