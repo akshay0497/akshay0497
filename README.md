@@ -8,7 +8,6 @@
 <h3 align="justify">🔹Web technology : HTML5, CSS3,</h3>
 <h3 align="justify">🔹Bootstrap4, Material UI, AntD,ChakraUI</h3>
 
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OIUet1dRnEI3NPUYZXhOqmhh7d4_jM2J5Q&s">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshay0497" alt="akshay0497" /></a> </p>
 
@@ -53,7 +52,7 @@
 - 📚 Learning GoLang
 
 <summary><h2>🛠️ Tech Arsenal</h2></summary>
-<div align="center">
+<div align="start">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -72,4 +71,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshay0497&show_icons=true&locale=en" alt="akshay0497" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay0497&" alt="akshay0497" /></p>
