@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Hi, I'm Akshay Kumar Gupta 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Frontend+Developer+%7C+ReactJS+%7C+MERN+Stack" alt="Typing SVG" />
@@ -83,5 +83,3 @@ With **1+ years** of experience in **ReactJS**, I specialize in building dynamic
 
 ### ⭐ Fun Fact
 💡 I love working on challenging problems, contributing to open-source projects, and mentoring aspiring developers!
-
-```
