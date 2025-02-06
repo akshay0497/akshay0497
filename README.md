@@ -1,3 +1,4 @@
+```markdown
 <h1 align="center">Hi, I'm Akshay Kumar Gupta 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Frontend+Developer+%7C+ReactJS+%7C+MERN+Stack" alt="Typing SVG" />
@@ -27,6 +28,7 @@ With **1+ years** of experience in **ReactJS**, I specialize in building dynamic
 ### 🛠️ Tech Stack
 #### **Frontend:**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -61,10 +63,17 @@ With **1+ years** of experience in **ReactJS**, I specialize in building dynamic
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay0497&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshay0497&theme=tokyonight" />
+</p>
+
 ---
 
 ### 📲 Connect with Me
 <p align="left">
+  <a href="mailto:1997akshay04@gmail.com" target="blank">
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" alt="Gmail" width="40" height="40"/>
+  </a>
   <a href="https://linkedin.com/in/akshay-kumar-gupta-66a802193" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
@@ -74,3 +83,5 @@ With **1+ years** of experience in **ReactJS**, I specialize in building dynamic
 
 ### ⭐ Fun Fact
 💡 I love working on challenging problems, contributing to open-source projects, and mentoring aspiring developers!
+
+```
