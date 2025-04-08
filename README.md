@@ -20,7 +20,7 @@
 - ⚡ Fun fact **I am Funny, passionate towards goals.....**
 
   ### 🎯 Professional Summary
-- 🚀 Software Developer at MULTIFACET SOFTWARES SYSTEMS
+- 🚀 Software Developer at Multifacet Software Systems Pvt. Ltd. (MSSPL)
 - 💡 Specialized in Full Stack Development
 - 🌟 1+ years of hands-on development experience
 
