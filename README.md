@@ -6,9 +6,6 @@
 <h3 align="justify">🔹Web technology : HTML5, CSS3,</h3>
 <h3 align="justify">🔹Bootstrap4, Material UI, AntD,ChakraUI</h3>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshay0497" alt="akshay0497" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **React Hybrid Developer**
